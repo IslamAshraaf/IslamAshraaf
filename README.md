@@ -8,7 +8,7 @@
 |[LinkedIn](https://www.linkedin.com/in/islam-ashraf-samy/) | Sharing posts and projects about data science |
 | [Kaggle ](https://www.kaggle.com/islamashraaf)  | Sharing my projects, enrolled competitions and datasets in data science  |
 |[Upwork](https://www.upwork.com/freelancers/~0126dc5f2b44fff1e7)| Providing machine learning, data analytics and web scraping freelance tasks |
-|[Gmail]()| Primary Email : islamm.ashraaf@gmail.com |
+|[Gmail]()| Primary Email : islamm.ashraaf@outlook.com |
 
 <h3 align="left"> Open Soruce & Projects:</h3>
 
@@ -34,7 +34,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-<img src="https://cdn-images-1.medium.com/v2/resize:fit:851/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="pyspark" width="40" height="40"/>
+<img src="https://cdn-images-1.medium.com/v2/resize:fit:851/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="pyspark" width="60" height="40"/>
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -46,12 +46,13 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1HorGnBjp9URQZH5Mrlbm3ls29QWU3s8fTYnydsmO5i0BAvgVS533WBemBv-Oa0LOqE&usqp=CAU" alt="matplotlib" width="40" height="40"/>
 <img src="https://intro-to-code.readthedocs.io/en/latest/_images/folium.png" alt="folium" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKTOTo1-cnwo0bLcfp2uCG74nVmn0YirtKR7q1KKM8TT9EIriPe3rTlnF10QotmYyCXE&usqp=CAU" alt="Looker Studio" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKTOTo1-cnwo0bLcfp2uCG74nVmn0YirtKR7q1KKM8TT9EIriPe3rTlnF10QotmYyCXE&usqp=CAU" alt="Looker Studio" width="60" height="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <!-- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
-
+<img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="Beautiful Soap" width="100" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZBtfxnmqJrGdHp0Br9yeZByGSUu-9IHTK0hZ6uS1otm6n9DCIut6g0xegFVPVv85-7hE&usqp=CAU" alt="requests" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 
