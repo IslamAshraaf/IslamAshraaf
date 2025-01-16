@@ -6,9 +6,9 @@
 | Media  | Summary |
 | ------------- | ------------- |
 |[LinkedIn](https://www.linkedin.com/in/islam-ashraf-samy/) | Sharing posts and projects about data science |
-| [Kaggle ](https://www.kaggle.com/islamashraaf)  | Sharing my projects, enrolled competitions and datasets in data science  |
+|[Kaggle ](https://www.kaggle.com/islamashraaf)  | Sharing my projects, enrolled competitions and datasets in data science  |
 |[Upwork](https://www.upwork.com/freelancers/~0126dc5f2b44fff1e7)| Providing machine learning, data analytics and web scraping freelance tasks |
-|[Gmail]()| Primary Email : islamm.ashraaf@outlook.com |
+|[Email]()| Primary Email : islamm.ashraaf@outlook.com |
 
 <h3 align="left"> Open Soruce & Projects:</h3>
 
