@@ -8,7 +8,7 @@
 |[LinkedIn](https://www.linkedin.com/in/islam-ashraf-samy/) | Sharing posts and projects about data science |
 |[Kaggle ](https://www.kaggle.com/islamashraaf)  | Sharing my projects, enrolled competitions and datasets in data science  |
 |[Upwork](https://www.upwork.com/freelancers/~0126dc5f2b44fff1e7)| Providing machine learning, data analytics and web scraping freelance tasks |
-|[Email]()| Primary Email : islamm.ashraaf@outlook.com |
+|[Primary Email]()| islamm.ashraaf@outlook.com |
 
 <h3 align="left"> Open Soruce & Projects:</h3>
 
@@ -16,7 +16,7 @@
 | ------------- | ------------- |
 | [Data Science Portfolio](https://github.com/IslamAshraaf/Data-Science-Portfolio) | Sharing my Data Science portfolio including full projects in different sections like : Machine Learning, Deep Learning, NLP, Big Data (PySpark), Time Series Forecasting And More.  |
 | [Data Analytics Portfolio](https://github.com/IslamAshraaf/Data-Analytics-Portfolio) | Sharing my projects and skills in data analytics through out : Data Cleaning and Preparation Using Python, Discovering New Insights From Data To Provide Bussiness Needs And Data Visualization Using Matplotlib,Seaborn,Plotly And Dashboards Using Data Looker Studio|
-| [Web Scraping](https://github.com/IslamAshraaf/Web-Scraping) | I am passionate also about collecting data to work on, Sharing my projects in scraping data from different websites like : Amazon, Booking and more.. obtaining the final database table or excel file|
+<!-- | [Web Scraping](https://github.com/IslamAshraaf/Web-Scraping) | I am passionate also about collecting data to work on, Sharing my projects in scraping data from different websites like : Amazon, Booking and more.. obtaining the final database table or excel file| -->
 
 <br>
 
