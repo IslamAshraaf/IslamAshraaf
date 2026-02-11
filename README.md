@@ -9,14 +9,15 @@
 |[Kaggle ](https://www.kaggle.com/islamashraaf)  | Sharing my projects, enrolled competitions and datasets in data science  |
 |[Upwork](https://www.upwork.com/freelancers/~0126dc5f2b44fff1e7)| Providing machine learning, data analytics and web scraping freelance tasks |
 |[Primary Email]()| islamm.ashraaf@outlook.com |
-<!--
-<h3 align="left"> Open Soruce & Projects:</h3>
+
+<h3 align="left"> Portfolio:</h3>
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Data Science Portfolio](https://github.com/IslamAshraaf/Data-Science-Portfolio) | Sharing my Data Science portfolio including full projects in different sections like : Machine Learning, Deep Learning, NLP, Big Data (PySpark), Time Series Forecasting And More.  |
-| [Data Analytics Portfolio](https://github.com/IslamAshraaf/Data-Analytics-Portfolio) | Sharing my projects and skills in data analytics through out : Data Cleaning and Preparation Using Python, Discovering New Insights From Data To Provide Bussiness Needs And Data Visualization Using Matplotlib,Seaborn,Plotly And Dashboards Using Data Looker Studio|
- | [Web Scraping](https://github.com/IslamAshraaf/Web-Scraping) | I am passionate also about collecting data to work on, Sharing my projects in scraping data from different websites like : Amazon, Booking and more.. obtaining the final database table or excel file| -->
+| [Data Science Portfolio](https://github.com/IslamAshraaf/Data-Science-Portfolio) | Sharing my Data Science portfolio including full projects in different sections |
+| [Data Analytics Portfolio](https://github.com/IslamAshraaf/Data-Analytics-Portfolio) | Sharing my projects and skills in data analytics through out : Data Cleaning, Data Preparation And Data Visualization |
+| [Web Scraping](https://github.com/IslamAshraaf/Web-Scraping) | Sharing my projects in scraping data from different sources|
+
 
 <br>
 
@@ -26,7 +27,7 @@
 * [Mathematics for Machine Learning and Data Science (DeepLearningAI)](https://www.coursera.org/account/accomplishments/specialization/8V2BB32QKUTC)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technology Stack:</h3>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -51,7 +52,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <!-- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
-<img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="Beautiful Soap" width="100" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" alt="Beautiful Soap" width="100" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZBtfxnmqJrGdHp0Br9yeZByGSUu-9IHTK0hZ6uS1otm6n9DCIut6g0xegFVPVv85-7hE&usqp=CAU" alt="requests" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
@@ -61,6 +62,3 @@
 
 </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islamashraaf" alt="islamashraaf" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamashraaf&show_icons=true&locale=en&layout=compact" alt="islamashraaf" /></p>
